@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+He is a business analyst in software industry
+=======
+He is a businessman in software industry.
+>>>>>>> student
